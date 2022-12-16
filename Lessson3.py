@@ -1,5 +1,5 @@
 class Human:
-    def __init__(self, name = 'Human'):
+    def __init__(self, name='Human'):
         self.name = name
 class Auto:
     def __init__(self, brand):
@@ -25,4 +25,3 @@ car.print_passangers_names()
 car1 = Auto('Tesla')
 car1.print_passangers_names()
 print()
-
