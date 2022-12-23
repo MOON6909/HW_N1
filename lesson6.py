@@ -90,5 +90,5 @@ print('-------------------------------------- \n')
 class Kvadrat:
     def calcul(self, a):
         return a*a
-su=Kvadrat()
-print(f'Площа квадрата — {su.calcul(4)}')
+ploshcha=Kvadrat()
+print(f'Площа квадрата — {ploshcha.calcul(4)}')
